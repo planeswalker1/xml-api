@@ -1,0 +1,2 @@
+baseurl: 'xml-api'
+exclude: ['README.md']
