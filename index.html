@@ -1,5 +1,20 @@
 ---
 layout: default
-title: Welcome!
+title: GET words that rhyme
 ---
-<h1>Hi</h1>
+
+<header>
+  <h1><span class="bg---blue">Word</span> Rhymer</h1>
+  <p>Enter a word and get a list words that rhyme with it.</p>
+</header>
+<main>
+  <h2>Enter a Word</h2>
+  <form id="form">
+    <div class="form__group">
+      <label for="word">Word:</label>
+      <input id="word" class="group__input" type="text" placeholder="Enter a word...">
+    </div>
+    <button class="btn" type="submit">SUBMIT</button>
+  </form>
+  <div class="response-field"></div>
+</main>
