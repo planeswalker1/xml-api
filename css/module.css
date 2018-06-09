@@ -2,3 +2,32 @@
   margin: 0 auto;
   max-width: 1360px;
 }
+
+.bg---blue {
+  background-color: #1f233e;
+  color: #fff;
+  padding-left: 10px;
+}
+
+.form__group,
+.response-field {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.group__input {
+  width: 100%;
+}
+
+.response-field {
+  background-color: #1f233e;
+  color: white;
+}
+
+@media screen and (max-width: 960px) {
+  .form__group,
+  .response-field {
+    width: 100%;
+    margin: 0;
+  }
+}
