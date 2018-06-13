@@ -1,2 +1,3 @@
-baseurl: 'xml-api'
+baseurl: /xml-api
 exclude: ['README.md']
+permalink: pretty
