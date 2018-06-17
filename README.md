@@ -1,6 +1,6 @@
 # _xml-api_
 
-#### _Calling an api using XMLHttpRequest, 06.12.2018_
+#### _Calling an api using XMLHttpRequest, 06.16.2018_
 
 #### By _**planeswalker1**_
 
@@ -11,8 +11,10 @@ _This website was made to practice using the xhr object._
 ## Setup/Installation Requirements
 
 * _Clone repository_
-* _Navigate to the cloned repository_
-* _open index.html with web browser of choice_
+* _Make sure you have the latest version of jekyll installed_
+* _Navigate to the cloned repository in terminal_
+* _Then, in terminal, run jekyll serve --watch --baseurl ""_
+* _open web browser of choice and go to localhost:4000 to see the website_
 
 ## Known Bugs
 
